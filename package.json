@@ -1,0 +1,24 @@
+{
+  "name": "tegaki-jan",
+  "version": "1.0.0",
+  "description": "Handmade mahjong font",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtsmfm/tegaki-jan.git"
+  },
+  "keywords": [
+    "mahjong",
+    "font",
+    "handmade"
+  ],
+  "author": "Fumiaki MATSUSHIMA <mtsmfm@gmail.com>",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/mtsmfm/tegaki-jan/issues"
+  },
+  "homepage": "https://github.com/mtsmfm/tegaki-jan#readme",
+  "files": [
+    "tegaki-jan.ttf",
+    "tegaki-jan.woff"
+  ]
+}
